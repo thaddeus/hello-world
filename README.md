@@ -1,2 +1,2 @@
 # hello-world
-Look professor Bond, I'm doing my homework!
+Look, Professor Bond, I'm doing my homework!
